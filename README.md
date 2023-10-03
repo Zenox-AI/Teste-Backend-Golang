@@ -48,7 +48,7 @@ Providencie o arquivo Docker (Dockerfile e docker-compose, se aplicável) do Kaf
 ```
 MIT License
 
-Copyright (c) 2016 ZenoX Pagamentos
+Copyright (c) 2016 ZenoX IA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
