@@ -3,6 +3,8 @@
 
 # Desafio Backend Golang
 
+Olá! Estamos muito felizes por você ter chegado até esta etapa do processo seletivo. Desejamos muito sucesso e esperamos que você tenha uma experiência agradável enquanto trabalha neste desafio. 
+
 **Objetivo:** Implementar um scraper web em Golang para coletar dados da página web "Scrape This Site", estruturar esses dados em JSON, e enviá-los para uma fila Kafka.
 
 **Requisitos:**
